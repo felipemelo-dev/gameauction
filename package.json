@@ -9,10 +9,14 @@
   },
   "dependencies": {
     "autoprefixer": "^10.0.4",
+    "mongodb": "^3.6.3",
     "next": "latest",
     "postcss": "^8.1.10",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/mongodb": "^3.6.3"
   }
 }
